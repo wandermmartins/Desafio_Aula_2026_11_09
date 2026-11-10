@@ -1,6 +1,6 @@
 //Criar um programa que calcula a media das notas de dois alunos ao memso tempo.
 //1 Ana e 2 Beto
-// Entregar no Teams
+//Entregar no Teams
 //Informe a média e a situação (aprovado ou reprovado).
 //Considere a média mínima para aprovação igual a 6,0.
 
@@ -9,10 +9,10 @@
 
 int main() {
     float media, soma;
-    float nota1Ana = 9.0; // Ana
-    float nota2Ana = 8.5; // Ana
-    float nota1Beto = 7.0; // Beto
-    float nota2Beto = 6.5; // Beto
+    float nota1Ana = 9.0; 
+    float nota2Ana = 8.5; 
+    float nota1Beto = 7.0; 
+    float nota2Beto = 6.5; 
 
     soma = nota1Ana + nota2Ana;
     media = soma / 2;
